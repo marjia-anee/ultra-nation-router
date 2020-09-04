@@ -1,0 +1,13 @@
+
+.country-style img {
+    height: 200px;
+}
+
+.country-style{
+    color: rgb(82, 82, 146);
+    border: 2px solid purple;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px;
+
+}
